@@ -2,7 +2,6 @@
 Structure/Dungeon mod for mc
 
 Homepage: https://www.curseforge.com/minecraft/mc-mods/unstructured
-
 Discord: https://discord.gg/VT3dEfKgX3
 
 
